@@ -1,0 +1,30 @@
+NSBM EVENTS
+
+User
+	indexNo
+	name
+	email
+	password
+
+Event
+	eventId
+	title
+	description
+	imageUrl
+	organizedBy
+	date
+	time
+	place
+	free
+	generalAdmission
+	vipPass
+
+Ticket
+	type
+	price
+	count
+
+Booking
+	ticketId
+	userId
+	timestamp
